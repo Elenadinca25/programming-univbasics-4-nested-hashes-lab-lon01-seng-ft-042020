@@ -38,7 +38,7 @@ def alan_kay_is_known_for
 
 programmer_hash[:grace_hopper]
 programmer_hash[:dennis_ritchie]["C"]
-alan_kay_is_known_for
+alan_kay_is_known_for[:alan_kay]
 end
 
 def dennis_ritchies_language
