@@ -37,7 +37,7 @@ def alan_kay_is_known_for
       }
     }
 
-programmer_hash[:known_for]["Object Orientation"]
+programmer_hash[:alan_kay]["Object Orientation"]
 programmer_hash[:dennis_ritchie]["C"]
 programmer_hash[:alan_kay]["Object Orientation"]
 end
