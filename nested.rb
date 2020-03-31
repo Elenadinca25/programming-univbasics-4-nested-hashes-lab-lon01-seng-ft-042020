@@ -38,7 +38,7 @@ def alan_kay_is_known_for
 
 programmer_hash[:grace_hopper]
 programmer_hash[:dennis_ritchie]["C"]
-programmer_hash["Object Orientation"]
+programmer_hash["Object Orientation"][:alan_kay]
 end
 
 def dennis_ritchies_language
@@ -105,7 +105,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-programmer_hash[:alan_kay][:known_for] = [:alans_new_info]
+
 end
 
 def adding_to_dennis
