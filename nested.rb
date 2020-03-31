@@ -36,7 +36,7 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
-programmer_hash[1][0]    
+
 programmer_hash[:alan_kay][:known_for]
 programmer_hash[:dennis_ritchie]["C"]
 end
@@ -105,7 +105,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-
+programmer_hash[:alan_kay][:known_for] = "alans_new_info"
 end
 
 def adding_to_dennis
