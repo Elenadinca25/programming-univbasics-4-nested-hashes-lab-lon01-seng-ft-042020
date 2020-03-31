@@ -82,8 +82,9 @@ def adding_matz
         :languages => ["C"]
       }
     }
-return programmer_hash
 end
+return programmer_hash
+
 
 def changing_alan
   # change what Alan Kay is :known_for to the value of the alans_new_info variable.
